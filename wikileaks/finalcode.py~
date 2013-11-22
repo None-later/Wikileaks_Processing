@@ -1,0 +1,19 @@
+import codecs 
+import re
+fi=codecs.open('cables.csv', 'r', encoding='utf-8')
+fg=fi.read()
+fi.close()
+fg=fg.replace('\\"',"%QUOTES%")
+fg=fg.replace("\\'","%SINGLEQUOTES%")
+fg=fg.replace('","',"%colseparator%")
+fg=fg.replace('"',"%lineseparator%")
+fg=fg.split("%lineseparator%")
+for record in fg:
+	record2=record.split("%colseparator%")
+	for index,j in enumerate(record2):
+		if(index==6):
+			temporary=j
+			temporary=temporary.split("\n")
+			print(temporary[1])
+#			print(j)
+#	print("%lineseparator%")

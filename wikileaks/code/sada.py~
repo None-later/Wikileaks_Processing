@@ -1,0 +1,8 @@
+import codecs 
+import re
+fi=codecs.open('aa', 'r', encoding='utf-8')
+fi2=codecs.open('output.txt', 'w', encoding='utf-8')
+fg=fi.read()
+fi.close()
+fg=fg.replace('\n',"#lineseparator#")
+print(fg)
