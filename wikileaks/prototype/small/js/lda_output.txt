@@ -1,9 +1,0 @@
-
-Relief operation by un
-['0.211*"usaid/dart" + 0.178*"relief" + 0.115*"water" + 0.114*"earthquake" + 0.113*"shelter" + 0.112*"tents" + 0.103*"october" + 0.101*"u.n." + 0.097*"sanitation" + 0.095*"food"']
-
-Existence of extremists in madrassa
-["0.018*ssp + 0.016*( + 0.012*2005 + 0.010*groups + 0.010*domestic + 0.010*leaders + 0.010*extremist + 0.010*madrassa + 0.009*'s + 0.008*its", '0.000*rns. + 0.000*opened + 0.000*increase + 0.000*2005. + 0.000*receiving + 0.000*viable + 0.000*shows + 0.000*rebuilding + 0.000*e. + 0.000*jalil']
-
-Nuclear Deal
-['0.115*"saran" + 0.113*"bjp" + 0.109*"nuclear" + 0.107*"congress" + 0.105*"jaishankar" + 0.103*"king" + 0.099*"pakistan" + 0.097*"nssp" + 0.094*"nepal" + 0.080*"iraq"']
