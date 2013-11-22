@@ -1,4 +1,0 @@
-scipy >= 0.7.0
-
-[distributed]
-Pyro4 >= 4.8
